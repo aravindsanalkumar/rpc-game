@@ -117,10 +117,7 @@ export default function RockPaperScissors() {
         </div>
       </div>
 
-      <div className="muted">
-        Tip: open devtools and customize the CSS injected in this file for quick
-        styling tweaks.
-      </div>
+      
     </div>
   );
 }
